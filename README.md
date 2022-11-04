@@ -1,27 +1,43 @@
 <h2 align="center">
+<<<<<<< Updated upstream
   Portfolio Website - v2.0<br/>
   <a  target="_blank">Srikanth-Manthri</a>
 </h2>
 <div align="center">
  
+=======
+ <br/>
+  <a  target="_blank">Srikanth~Manthri</a>
+</h2>
+<div align="center">
+  <!-- <img alt="Demo" src="./Images/image.png" /> -->
+>>>>>>> Stashed changes
 </div>
 
 <br/>
 
 <center>
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 </center>
 
 <h3 align="center">
     🔹
+<<<<<<< Updated upstream
   
     🔹
    >
+=======
+   
+>>>>>>> Stashed changes
 </h3>
 
 ## TL;DR
 
+<<<<<<< Updated upstream
 
 
 ## Built With
@@ -30,6 +46,8 @@ My personal portfolio
 
 This project was built using these technologies.
 
+=======
+>>>>>>> Stashed changes
 - React.js
 - Node.js
 - Express.js
@@ -67,5 +85,8 @@ You will find all the components used and you can edit your information accordin
 ### Show your support
 
 Give a ⭐ if you like this website!
+<<<<<<< Updated upstream
 
 
+=======
+>>>>>>> Stashed changes

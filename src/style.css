@@ -17,7 +17,10 @@ html {
 .purple {
   color: var(--imp-text-color) !important;
 }
-
+.img-fluid{
+  height: 350px !important;
+  border-radius: 50% ;
+}
 button:focus {
   box-shadow: none !important;
 }
@@ -309,9 +312,9 @@ button:focus {
   justify-content: center !important;
   padding-top: 4em !important;
 }
-.img-fluid{
+/* .img-fluid{
   height: 359px !important;
-}
+} */
 @media (max-width: 767px) {
   .myAvtar {
     padding-top: 2em !important;
